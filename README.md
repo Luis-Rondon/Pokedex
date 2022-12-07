@@ -7,3 +7,5 @@ Technologies:
 - HTML
 - CSS
 - JavaScript
+
+https://pokedex-app-api-js.netlify.app/
